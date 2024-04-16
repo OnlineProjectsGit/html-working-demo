@@ -5,3 +5,11 @@ body {
     height: 100vh;
     background: rgba(255, 0, 0, 0.291);
 }
+
+.horizon-image {
+    width: 400px;
+}
+
+#horizon-image {
+    height: 300px;
+}
