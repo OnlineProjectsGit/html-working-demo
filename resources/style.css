@@ -13,3 +13,8 @@ body {
 #horizon-image {
     height: 300px;
 }
+
+form {
+    width: 50%;
+    border: 1px solid black;
+}
